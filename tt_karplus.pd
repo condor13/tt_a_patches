@@ -5512,6 +5512,8 @@ thier work., f 83;
 #X connect 16 1 33 0;
 #X connect 16 2 32 3;
 #X connect 30 0 31 0;
+#X connect 31 0 9 0;
+#X connect 31 1 9 1;
 #X connect 32 0 31 1;
 #X connect 33 0 32 1;
 #X connect 33 1 32 2;
